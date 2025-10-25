@@ -31,7 +31,7 @@ An intelligent AI-powered legal assistant that helps with PDF form filling, docu
 1. **Clone the repository**
 ```bash
 git clone <repository-url>
-cd SnakeAI/Agent
+cd LocalLegal
 ```
 
 2. **Install dependencies**
